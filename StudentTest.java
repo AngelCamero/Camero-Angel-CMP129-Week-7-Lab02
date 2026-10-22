@@ -35,7 +35,14 @@ public class StudentTest {
         // PART 3: Compare
         // Add comments that answer:
         // 1. Which class is mutable?
+
+        // the MutableStudent class
+
         // 2. Which class is immutable?
+
+        //The ImmutableStudent class
         // 3. What is the biggest difference you noticed?
+
+        // We dont use setters to change the information of the immutable student after it has been initialized
     }
 }
